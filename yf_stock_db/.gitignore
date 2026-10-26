@@ -1,0 +1,10 @@
+*
+!/.gitignore
+!/scripts/
+!/scripts/**
+!/tests/
+!/tests/**
+**/__pycache__/
+**/._*
+**/.__*
+**/.DS_Store
